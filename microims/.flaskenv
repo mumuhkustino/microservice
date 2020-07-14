@@ -1,0 +1,5 @@
+FLASK_APP=microims.py
+DB_HOST=localhost
+DB_DATABASE=microims
+DB_USERNAME=username
+DB_PASSWORD=password
